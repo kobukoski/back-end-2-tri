@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "fulano",
+        "data_nasc": "15/08/2010",
+        "cpf": "12345678900",
+        "email": "fulano@gmail.com",
+        "senha": "fu123"
+    },
+    {
+        "nome": "maradona",
+        "data_nasc": "30/10/1960",
+        "cpf": "98765432100",
+        "email": "maradonA@gmail.com",
+        "senha": "ft1960"
+    },
+    {
+        "nome": "Messi",
+        "data_nasc": "24/06/1987",
+        "cpf": "45617823900",
+        "email": "L.messi@gmail.com",
+        "senha": "copa22"
+    }
+]
